@@ -1,0 +1,9 @@
+body{
+
+    background-image: url("descarga.png");
+    background-repeat: no-repeat;
+    background-position: bottomcenter right 80% ;
+    background-color: white;
+    background-size:  100%;
+    background-attachment: fixed;
+  }
